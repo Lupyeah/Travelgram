@@ -1,0 +1,60 @@
+@media (max-width: 800px) {
+
+    .container {
+        padding-inline: 20px;
+    }
+
+    nav {
+        padding-block: 16px;
+    }
+
+    nav ul li:nth-child(2),
+    nav ul li:nth-child(3),
+    nav ul li:nth-child(4) {
+        display: none;
+    }
+
+    header .container {
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    #profile {
+        flex-direction: column;
+        text-align: center;
+        gap: 16px;
+    }
+
+    #profile img {
+        width: 120px;
+        height: 120px;
+    }
+
+    #profile h1 {
+        font-size: 28px;
+    }
+
+    #info {
+        width: auto;
+        align-items: center;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 16px;
+    }
+
+    main img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+    }
+
+    footer {
+        align-items: center;
+        gap: 50px;
+    }
+
+}
