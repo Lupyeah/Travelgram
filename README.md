@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Uma perfil de viagens, estilo instagram!
-- [Para ver no site](https://lupyeah.github.io/travelgram/)
+- [Para ver no site](https://lupyeah.github.io/Travelgram/)
 
 ---
 
