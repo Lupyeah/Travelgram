@@ -18,6 +18,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Uma perfil de viagens, estilo instagram!
 - [Para ver no site](https://lupyeah.github.io/Travelgram/)
 
+## 📋 Funcionalidades
+
+- 📌 Uma página para armazenar fotos da viagem
+- ❗ Informações detalhadas sobre a pessoa 
+- 📸 Fotos das viagens
 ---
 
 Feito pela Lupy com ajuda da Rocketseat -> [Participe da nossa comunidade!](https://discord.gg/rocketseat)
